@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @milco9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-milco9/milco9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @milco9 / Tomáš Nyiri
+- 👀 I’m interested in programming, but I am most interested in programming languages such as Java, C++, Python, and frontend JS-react, html css.
+- 🌱 I’m currently learning ROS, and some frontend languages.
+- 📫 You can contact me using my portfolio nyiritomas.com, or with email nyiritomas19@gmail.com
